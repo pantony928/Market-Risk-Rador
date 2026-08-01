@@ -1,0 +1,7 @@
+streamlit
+yfinance>=0.2.60
+xgboost
+scikit-learn
+pandas
+numpy
+matplotlib
